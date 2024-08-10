@@ -5,3 +5,7 @@
 ``` javascript
 console.log("Hola Mundo")
 ```
+
+- [x] Abrir Pull Request
+- [ ] Revisar Cambios
+- [ ] Hacer Merge a rama main
